@@ -1,0 +1,12 @@
+title=Hello World
+major_version=1
+minor_version=0
+build_version=0
+mm_icon_focus_hd=pkg:/images/icon_focus_hd.png
+mm_icon_focus_sd=pkg:/images/icon_focus_sd.png
+
+subtitle=A Simple Hello World App
+description=A basic Roku channel that displays Hello World
+
+screensaver_title=Hello World
+screensaver_private=0
